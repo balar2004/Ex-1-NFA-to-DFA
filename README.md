@@ -1,5 +1,3 @@
-
-## Ex-1-NFA-to-DFA
 ## Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 ## Aim
 To write a C program for Conversion of Non-Deterministic Finite Automaton (NFA) To 
